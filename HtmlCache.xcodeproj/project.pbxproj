@@ -434,6 +434,7 @@
 				7228F1941B8DE8180043E11D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7228F1951B8DE8180043E11D /* Build configuration list for PBXNativeTarget "HtmlCacheTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +443,7 @@
 				7228F1971B8DE8180043E11D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
